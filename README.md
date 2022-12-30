@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ezeibekwe Emmanuel 
+- 👀 I’m interested in Software Engineer 
+- 🌱 I’m currently learning Python, React.js, C
+- 💞️ I’m looking to collaborate on any project for now
+- 📫 How to reach me [Ezeibekwe Emmanuel](https://twitter.com/Ezeibekweemma) on Twitter 
