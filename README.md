@@ -70,15 +70,16 @@
 
 ### Fun Part:
 <div align="center"> 
-  visit count, just for fun<br>
+<b>visit count, just for fun</b><br>
   <img src="https://profile-counter.glitch.me/ezeibekweemma/count.svg" />
 </div>
 <p align="center">
-  <b>refresh to increase it by 1 🤪</b>
+  <b>refresh page to increase it by 1 🤪</b>
 </p>
 
 <div align="center">
-<br><i>Now you're finally at the end of my Readme, get ready for programmers joke</i> 🤪<br><br>
+<i>Now you're finally at the end of my Readme, get ready for programmers joke 🤪 refresh page for more!</i>
+</br>
 <img align="center" src="https://readme-jokes.vercel.app/api?theme=darcula" alt="Error fetching resource, Refresh again to view Jokes Card" theme="prussian" width='900' />
 
 <i>Happy Coding!</i> 😊
