@@ -5,22 +5,33 @@
 ### Here's a quick summary about me:
 
 - :smile: Pronouns:
-
 - 🌱 I’m currently learning Python, React.js, C, Nodejs.
-
 - ⚡ Fun fact: Lover of Tech.
-
 - :open_file_folder: I’m open to Job's, Internships, Hackathons, and Open source projects.
-
 - 💼 Job interests: Software Engineer | Frontend Engineer | Full-stack Software Engineer.
-
-- :mailbox_with_mail: You can contact me by DM on [Email](ezeibekweemma@gmail.com) | [Twitter](https://twitter.com/ezeibekweemma).
+- :mailbox_with_mail: You can contact me by DM on [Email](mailto:ezeibekweemma@gmail.com) | [Twitter](https://twitter.com/ezeibekweemma).
 
 ---
 
 ### Tools:
 
+<div align="center">
+<img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">
 
+<img alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="30"/>
+
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30"/>
+
+
+
+
+</div>
 
 ---
 
