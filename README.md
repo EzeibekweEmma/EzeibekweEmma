@@ -25,6 +25,8 @@
 
 <img alt="vim" width="50px" src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" />
 
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="50"/>
+
 <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="50"/>
 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50"/>
@@ -38,6 +40,8 @@
 <img src="https://img.icons8.com/color/452/mongodb.png" alt="mongodb" width="50">
 
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="50"/>
+
+<img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="yarnpkg" width="50"/>
 
 <img src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg" alt="nodemonio" width="50"/>
 
