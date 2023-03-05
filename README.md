@@ -39,6 +39,8 @@
 
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="50"/>
 
+<img src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-icon.svg" alt="nodemonio" width="50"/>
+
 <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="50"/>
 	
 <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="50"/>
