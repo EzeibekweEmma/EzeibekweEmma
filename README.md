@@ -1,7 +1,7 @@
 ## <div align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I’m Ezeibekwe Emmanuel</div> 
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer,;Full-stack%20Engineer%20-%20Frontend%20heavy.%20👨‍💻;With%202%2B%20years%20of%20coding%20experience;Lover%20Of%20Technology!%20😍;Love%20working%20remotely.%20🌍&font=Fira%20Code&center=true&width=550&height=45&color=FFFFFF&vCenter=true&size=22&pause=1500">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer,;Full-stack%20Engineer%20-%20Frontend%20heavy.%20👨‍💻;With%202%2B%20years%20of%20coding%20experience;Lover%20Of%20Technology!%20😍;Love%20working%20remotely.%20🌍&font=Fira%20Code&center=true&width=550&height=45&vCenter=true&size=22&pause=1500">
 </div>
 
 ---
