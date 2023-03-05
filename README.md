@@ -1,7 +1,7 @@
 ## <div align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I’m Ezeibekwe Emmanuel</div> 
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer,;Full-stack%20Engineer%20-%20Frontend%20heavy.%20👨‍💻;With%202%2B%20years%20of%20coding%20experience;Lover%20Of%20Technology!%20😍;Working%20remotely%20from%20Home.%20🌍&font=Fira%20Code&center=true&width=550&height=45&color=FFFFFF&vCenter=true&size=22&pause=1500">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer,;Full-stack%20Engineer%20-%20Frontend%20heavy.%20👨‍💻;With%202%2B%20years%20of%20coding%20experience;Lover%20Of%20Technology!%20😍;Love%20working%20remotely.%20🌍&font=Fira%20Code&center=true&width=550&height=45&color=FFFFFF&vCenter=true&size=22&pause=1500">
 </div>
 
 ---
@@ -21,23 +21,29 @@
 ### Tools:
 
 <div align="center">
-<img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">
+<img width="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
 
-<img alt="Terminal" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img alt="vim" width="50px" src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" />
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="60"/>
+<img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="50"/>
 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="60"/>
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="50"/>
 	
-<img src="https://img.icons8.com/color/452/mongodb.png" width="60">
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="50"/>
+	
+<img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="50">
 
-<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="github" width="60"/>
+<img src="https://img.icons8.com/color/452/mongodb.png" alt="mongodb" width="50">
 
-<img alt="Linux" width="60px" src="https://camo.githubusercontent.com/0d57a1013ca687b2df81dc1652bf33293b0d9e43d4745d7e70f33b0c79fef474/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6c696e75782d6f726967696e616c2e737667" />
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="50"/>
+
+<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="50"/>
+	
+<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="50"/>
+
+<img alt="Linux" width="50px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
 </div>
 
 ---
@@ -79,7 +85,7 @@
 
 <div align="center">
 <i>Now you're finally at the end of my Readme, get ready for programmers joke 🤪 refresh page for more!</i>
-</br>
+
 <img align="center" src="https://readme-jokes.vercel.app/api?theme=darcula" alt="Error fetching resource, Refresh again to view Jokes Card" theme="prussian" width='900' />
 
 <i>Happy Coding!</i> 😊
